@@ -42,7 +42,7 @@ if(isset($_POST['submit'])){
             </div>
 
             <div class="form-group">
-                <label>password</label>
+                <label>hello</label>
                 <input type="password" class="form-control" placeholder="enter your password" name="password" autocomplete="off">
             </div>
 
